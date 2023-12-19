@@ -1,0 +1,16 @@
+#topnav {
+    background-color: #007BFF; /* Синий цвет для фона навигационного меню */
+    padding: 10px;
+}
+
+.nav-link {
+    display: inline-block;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #fff; /* Белый цвет текста ссылок */
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #ff6600; /* Оранжевый цвет текста при наведении */
+}
